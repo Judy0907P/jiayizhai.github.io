@@ -16,3 +16,10 @@ I am an **EdTech Innovator** at the intersection of **Learning Science** and **F
 * **Personal Development Portfolio**: This Jekyll-powered site serves as a live hub for my technical projects and industry analysis.
 
 👉 **[View my curated AI & Education Resource Log](./resources.md)**
+## 💡 Featured Industry Analysis
+*My synthesis of current 2026 trends at the intersection of Learning Science and Technology.*
+
+* **[The Rise of Teacher-AI Co-pilots](./_posts/2026-01-15-ai-edu-takeaway.md)** *An analysis of how administrative automation is returning time to educators.*
+* **[Ethical Algorithms in Student Data](./_posts/2026-01-10-ethics.md)** *Why transparency is the core pillar of institutional AI strategy this year.*
+
+👉 **[Explore my full Resource Log & Takeaways](./resources.md)**
